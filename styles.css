@@ -2,9 +2,15 @@
 	margin: 0px;
 }
 
+.container {
+	width: 50%;
+	padding: 10px;
+	margin: auto;
+}
+
 header {
 	text-align: center;
-	margin: 10px 5px;
+	margin: auto;
 	padding: 10px;
 }
 
